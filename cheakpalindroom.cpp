@@ -6,9 +6,6 @@
 //this a a change 
 using namespace std;
 // changing some rules
-//this is anew line in file down merged
-//this is anew line in file down merged
-//this is anew line in file down merged
 struct stDate
 {
   int Year;
