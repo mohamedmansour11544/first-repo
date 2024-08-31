@@ -3,6 +3,7 @@
 #include <string>
 #include <cstring>
 #include <cctype>
+//this a a change 
 using namespace std;
 // changing some rules
 //this is anew line in file down merged
