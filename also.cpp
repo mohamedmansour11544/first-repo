@@ -55,6 +55,7 @@ int RandomNumbers(int from, int to)
 //   }
 //   size = --counter;
 // }
+//this is a comment
 
 void Normal_Print_Array(int array[], int &size)
 {
