@@ -11,7 +11,7 @@ enum PrimeNumber
   NotPrime = 2
 };
 //changing some rules
-
+//This is a comment graph"
 PrimeNumber cheak_Prime(int number)
 {
   int m = number / 2;
